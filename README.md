@@ -1,3 +1,8 @@
+# Angular Experiment Code
+
+This is spike solution of me. You don't need to look at this. 
+
+
 # Local
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
